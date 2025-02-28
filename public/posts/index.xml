@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Paddy HQ</title>
-        <link>http://localhost:1313/</link>
-        <description>This is my cool site</description>
+        <title>All Posts - Paddy HQ</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>All Posts | Paddy HQ</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pqweraddy@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 15:57:35 &#43;0800</lastBuildDate>
-            <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 15:57:35 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Test</title>
     <link>http://localhost:1313/posts/first_post/</link>
     <pubDate>Fri, 28 Feb 2025 15:57:35 &#43;0800</pubDate>
