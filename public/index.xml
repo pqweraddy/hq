@@ -4,17 +4,16 @@
         <link>http://localhost:1313/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pqweraddy@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 15:57:35 &#43;0800</lastBuildDate>
+            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Test</title>
+    <title>First Post</title>
     <link>http://localhost:1313/posts/first_post/</link>
-    <pubDate>Fri, 28 Feb 2025 15:57:35 &#43;0800</pubDate>
+    <pubDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</pubDate>
     <author>Paddy Lee</author>
     <guid>http://localhost:1313/posts/first_post/</guid>
-    <description><![CDATA[<h1 id="test">Test</h1>
-<p>The quick brown fox jumps over the lazy dog 12345</p>
-<p>12345</p>]]></description>
+    <description><![CDATA[<p>好欸， Paddy HQ 正式上線啦 &#x1f973;&#x1f973;</p>
+<p>這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～</p>]]></description>
 </item>
 </channel>
 </rss>

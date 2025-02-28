@@ -1,12 +1,10 @@
 +++
-date = '2025-02-28T15:57:35+08:00'
+date = '2025-02-28T17:08:35+08:00'
 draft = false
-title = 'Test'
+title = 'First Post'
 +++
 
 
-# Test
+好欸， Paddy HQ 正式上線啦 :partying_face::partying_face:
 
-The quick brown fox jumps over the lazy dog 12345
-
-12345
+這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～
