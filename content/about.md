@@ -4,7 +4,7 @@
 
 ## Education
 
-* **B.S. in Computer Science & Information Engineering**, National Taiwan University
+* **B.S. in Computer Science & Information Engineering**, National Taiwan University (Expected: June 2027)
 
 
 ## Experience
