@@ -2,6 +2,7 @@
 date = '2025-02-28T17:08:35+08:00'
 draft = false
 title = 'First Post'
+categories = ["talk"]
 +++
 
 

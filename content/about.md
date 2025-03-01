@@ -1,6 +1,12 @@
 # About Me
 
-**Hi there! I'm Paddy Yu-syuan Lee, a sophomore majoring in computer science.**
+Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese sophomore majoring in Computer Science. Welcome to my portfolio website!
+
+I'm currently serving as the **Vice President** of the NTU CSIE Council and the **General Coordinator** of the 2025 NTU CSIE Night—one of the largest events organized by the NTU CSIE Council.
+
+I enjoy connecting with people from diverse backgrounds, exchanging experiences, and sharing perspectives.
+
+Looking forward to meeting you!
 
 ## Education
 
