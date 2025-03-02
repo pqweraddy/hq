@@ -1,4 +1,6 @@
-# About Me
++++
+title= 'About Me'
++++
 
 Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese sophomore majoring in Computer Science. Welcome to my portfolio website!
 
