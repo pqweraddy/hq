@@ -1,15 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Talk - Category - Paddy HQ</title>
-        <link>http://example.org/categories/talk/</link>
+        <link>http://localhost:1313/categories/talk/</link>
         <description>Talk - Category - Paddy HQ</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pqweraddy@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/talk/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Wed, 05 Mar 2025 17:08:35 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/talk/" rel="self" type="application/rss+xml" /><item>
+    <title>台大資工生活心得</title>
+    <link>http://localhost:1313/posts/csie/</link>
+    <pubDate>Wed, 05 Mar 2025 17:08:35 &#43;0800</pubDate>
+    <author>Paddy Lee</author>
+    <guid>http://localhost:1313/posts/csie/</guid>
+    <description><![CDATA[<p>在台大資工也快一年半了，現在正好是一階放榜時間，來跟大家聊聊我這一年半的感受吧～</p>
+<h2 id="我讀資工系的背景">我讀資工系的背景</h2>
+<p>我覺得我的志向算蠻明確的，高一時就下定決心讀台大資工，一方面是本身對寫程式有興趣（雖然比起系上大神我還差得很遠）</p>]]></description>
+</item>
+<item>
     <title>First Post</title>
-    <link>http://example.org/posts/first_post/</link>
+    <link>http://localhost:1313/posts/first_post/</link>
     <pubDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</pubDate>
     <author>Paddy Lee</author>
-    <guid>http://example.org/posts/first_post/</guid>
+    <guid>http://localhost:1313/posts/first_post/</guid>
     <description><![CDATA[<p>好欸， <strong>Paddy HQ</strong> 正式上線啦 &#x1f973;&#x1f973;</p>
 <p>這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～</p>]]></description>
 </item>
