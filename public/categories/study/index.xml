@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Paddy HQ</title>
-        <link>http://example.org/posts/</link>
-        <description>All Posts | Paddy HQ</description>
+        <title>Study - Category - Paddy HQ</title>
+        <link>http://example.org/categories/study/</link>
+        <description>Study - Category - Paddy HQ</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pqweraddy@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Mon, 17 Mar 2025 16:43:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Mon, 17 Mar 2025 16:43:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/study/" rel="self" type="application/rss+xml" /><item>
     <title>LaTeX 模板</title>
     <link>http://example.org/posts/latex_template/</link>
     <pubDate>Mon, 17 Mar 2025 16:43:35 &#43;0800</pubDate>
@@ -65,15 +65,6 @@
 </span></span><span class="line"><span class="cl">Some Solution
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="k">\end</span><span class="nb">{</span>document<span class="nb">}</span></span></span></code></pre></div></div>]]></description>
-</item>
-<item>
-    <title>First Post</title>
-    <link>http://example.org/posts/first_post/</link>
-    <pubDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</pubDate>
-    <author>Paddy Lee</author>
-    <guid>http://example.org/posts/first_post/</guid>
-    <description><![CDATA[<p>好欸， <strong>Paddy HQ</strong> 正式上線啦 &#x1f973;&#x1f973;</p>
-<p>這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～</p>]]></description>
 </item>
 </channel>
 </rss>
