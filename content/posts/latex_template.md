@@ -1,10 +1,11 @@
 +++
 date = '2025-03-17T16:43:35+08:00'
 draft = false
-title = 'LaTeX 模板'
+title = 'LaTeX 作業模板'
 categories = ["study","tools"]
 +++
 
+這是我交作業常用的模板。
 
 ```latex
 \documentclass{article}
@@ -35,9 +36,10 @@ categories = ["study","tools"]
 \renewcommand{\footrulewidth}{0.4pt}% default is 0pt
 
 %%%%%%%%%%%%%%%%%% configure course and hw name
-\newcommand{\name}{Yu-Syuan Lee 李育烜}
-\newcommand{\course}{Foundation of Artificial Intellgence 2025}
-\newcommand{\homework}{Homework 2}
+\newcommand{\name}{你的名字}
+\newcommand{\studentid}{你的學號}
+\newcommand{\course}{課程名稱}
+\newcommand{\homework}{作業名稱}
 %%%%%%%%%%%%%%%%%% configure course and hw name
 
 \begin{document}
@@ -47,7 +49,7 @@ categories = ["study","tools"]
 \fancyhead[R]{\homework}
 \fancyfoot[L]{\name}
 \fancyfoot[C]{Page \thepage}
-\fancyfoot[R]{B12902072}
+\fancyfoot[R]{\studentid}
 
 
 %%%%%%%%%%%%%%%%%% content written below
