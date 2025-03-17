@@ -4,7 +4,7 @@ title= 'About Me'
 
 Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese sophomore majoring in **Computer Science**. Welcome to my portfolio website!
 
-I'm currently serving as the **Vice President** of the NTU CSIE Council and the **General Coordinator** of the 2025 NTU CSIE Night—one of the largest events organized by the NTU CSIE Council. Starting in August 2025, I will take on the role of the **48th President** of the NTU CSIE Council and serve as the **Information Director** at Topedia International Education Co., Ltd.
+I'm currently serving as the **Vice President** of the NTU CSIE Council and the **General Coordinator** of the 2025 NTU CSIE Night—one of the largest events organized by the NTU CSIE Council. <!--Starting in August 2025, I will take on the role of the **48th President** of the NTU CSIE Council and serve as the **Information Director** at Topedia International Education Co., Ltd.-->
 
 I enjoy connecting with people from diverse backgrounds, exchanging experiences, and sharing perspectives.
 
