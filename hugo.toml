@@ -73,7 +73,7 @@ enableEmoji = true
 # Author config
   [params.author]
     name = "Paddy Lee"
-    email = "pqweraddy@gmail.com"
+    email = "paddyl.hq@gmail.com"
     link = ""
       
       
@@ -178,7 +178,7 @@ enableEmoji = true
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "paddyl.hq@gmail.com"
+      gravatarEmail = "pqweraddy@gmail.com"
       # URL of avatar shown in home page
       avatarURL = "/images/avatar.jpeg"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
