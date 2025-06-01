@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Talk - Category - Paddy HQ</title>
-        <link>http://localhost:1313/categories/talk/</link>
+        <link>http://example.org/categories/talk/</link>
         <description>Talk - Category - Paddy HQ</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>pqweraddy@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>pqweraddy@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/talk/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>paddyl.hq@gmail.com (Paddy Lee)</managingEditor>
+            <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/talk/" rel="self" type="application/rss+xml" /><item>
     <title>First Post</title>
-    <link>http://localhost:1313/posts/first_post/</link>
+    <link>http://example.org/first_post/</link>
     <pubDate>Fri, 28 Feb 2025 17:08:35 &#43;0800</pubDate>
     <author>Paddy Lee</author>
-    <guid>http://localhost:1313/posts/first_post/</guid>
+    <guid>http://example.org/first_post/</guid>
     <description><![CDATA[<p>好欸， <strong>Paddy HQ</strong> 正式上線啦 &#x1f973;&#x1f973;</p>
 <p>這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～</p>]]></description>
 </item>
