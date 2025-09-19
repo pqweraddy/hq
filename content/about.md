@@ -2,7 +2,7 @@
 title= 'About Me'
 +++
 
-Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese sophomore majoring in **Computer Science**. Welcome to my portfolio website!
+Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese junior majoring in **Computer Science**. Welcome to my portfolio website!
 
 I'm currently serving as the **48th President** of the NTU CSIE Council and the **Director of the Information Department** at Topedia International Education Co., Ltd. I also worked as the **Teaching Assistant** for *Data Structures and Algorithms*.
 
@@ -19,7 +19,11 @@ Looking forward to meeting you!
 
 * **Student President**, NTU CSIE Council, 2025.08 - Present
 
-* **Lecturer**, Olympiad Training Program, Kang Chiao International School, Xiugang Campus, 2024.09 - Present
+* **Director**, Department of Information, Topedia International Education Co., Ltd., 2025.09 - Present
+
+* **Lecturer**, Taipei Fuhsing Private School, 2025.09 - Present
+
+* **Lecturer**, Kang Chiao International School, Xiugang Campus, 2024.09 - Present
 
 * **Vice Student President**, NTU CSIE Council, 2024.08 - 2025.07
 

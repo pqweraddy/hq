@@ -1,11 +1,11 @@
 # About Me
 
 
-Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese sophomore majoring in **Computer Science**. Welcome to my portfolio website!
+Hi there! I'm **Paddy Yu-Syuan Lee**, a :taiwan: Taiwanese junior majoring in **Computer Science**. Welcome to my portfolio website!
 
-I'm currently serving as the **Vice President** of the NTU CSIE Council and the **General Coordinator** of the 2025 NTU CSIE Night—one of the largest events organized by the NTU CSIE Council. Starting in August 2025, I will take on the role of the **48th President** of the NTU CSIE Council and serve as the **Director of the Information Department** at Topedia International Education Co., Ltd.
+I'm currently serving as the **48th President** of the NTU CSIE Council and the **Director of the Information Department** at Topedia International Education Co., Ltd. I also worked as the **Teaching Assistant** for *Data Structures and Algorithms*.
 
-I enjoy connecting with people from diverse backgrounds, exchanging experiences, and sharing perspectives.
+I enjoy connecting with people from diverse backgrounds, exchanging experiences, and sharing perspectives with others.
 
 Looking forward to meeting you!
 
@@ -16,11 +16,17 @@ Looking forward to meeting you!
 
 ## Experience
 
-<!--* **Student President**, NTU CSIE Council, 2025.08 - Present-->
-* **Vice Student President**, NTU CSIE Council, 2024.08 - Present
+* **Student President**, NTU CSIE Council, 2025.08 - Present
 
-* **General Coordinator**, 2025 NTU CSIE Night, 2024.09 - Present
+* **Director**, Department of Information, Topedia International Education Co., Ltd., 2025.09 - Present
 
-* **Teaching Assistant**, Data Structures and Algorithms, 2025.02 - Present
+* **Lecturer**, Taipei Fuhsing Private School, 2025.09 - Present
 
-* **Lecturer**, Olympiad Training Program, Kang Chiao International School, Xiugang Campus, 2024.09 - Present
+* **Lecturer**, Kang Chiao International School, Xiugang Campus, 2024.09 - Present
+
+* **Vice Student President**, NTU CSIE Council, 2024.08 - 2025.07
+
+* **General Coordinator**, 2025 NTU CSIE Night, 2024.09 - 2025.08
+
+* **Teaching Assistant**, Data Structures and Algorithms, 2025.02 - 2025.06
+
