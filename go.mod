@@ -1,0 +1,5 @@
+module github.com/pqweraddy/hq
+
+go 1.25.0
+
+require github.com/babeneso/hugo-neso v0.1.3 // indirect

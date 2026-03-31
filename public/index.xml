@@ -4,9 +4,24 @@
         <link>http://example.org/</link>
         <description>This is my cool site</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>paddyl.hq@gmail.com (Paddy Lee)</managingEditor>
-            <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Mon, 17 Mar 2025 16:43:35 &#43;0800</lastBuildDate>
+            <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster><lastBuildDate>Tue, 01 Apr 2025 16:43:35 &#43;0800</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>第三關</title>
+    <link>http://example.org/stage3/</link>
+    <pubDate>Tue, 01 Apr 2025 16:43:35 &#43;0800</pubDate>
+    <author>Paddy Lee</author>
+    <guid>http://example.org/stage3/</guid>
+    <description><![CDATA[<p>真沒想到你能來到這裡呢！接下來我們來回答有關我們的問題！（以下每個英文代表一位數字）</p>
+<ol>
+<li>我們的交往紀念日是a月b日</li>
+<li>我的手機密碼是cdefgh</li>
+<li>我們大吵是在i月jk日</li>
+<li>在冷靜期，我總共寫了l張卡片，但最後只有給你m張</li>
+</ol>
+<p>hackmd.io/@pqweraddy/abcdefghijklm</p>]]></description>
+</item>
+<item>
     <title>LaTeX 作業模板</title>
     <link>http://example.org/latex_template/</link>
     <pubDate>Mon, 17 Mar 2025 16:43:35 &#43;0800</pubDate>
@@ -44,14 +59,14 @@
 </span></span><span class="line"><span class="cl"><span class="k">\setCJKmainfont</span><span class="na">[BoldFont=HaranoAjiMincho-Bold.otf]</span><span class="nb">{</span>HaranoAjiMincho-Regular.otf<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\setCJKfallbackfamilyfont</span><span class="nb">{</span><span class="k">\CJKrmdefault</span><span class="nb">}{</span>gulim.ttf<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\renewcommand</span><span class="nb">{</span><span class="k">\footrulewidth</span><span class="nb">}{</span>0.4pt<span class="nb">}</span><span class="c">% default is 0pt
-</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="c">%%%%%%%%%%%%%%%%%% configure course and hw name
-</span></span></span><span class="line"><span class="cl"><span class="c"></span><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\name</span><span class="nb">}{</span>你的名字<span class="nb">}</span>
+</span></span></span><span class="line"><span class="cl"><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\name</span><span class="nb">}{</span>你的名字<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\studentid</span><span class="nb">}{</span>你的學號<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\course</span><span class="nb">}{</span>課程名稱<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\newcommand</span><span class="nb">{</span><span class="k">\homework</span><span class="nb">}{</span>作業名稱<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="c">%%%%%%%%%%%%%%%%%% configure course and hw name
-</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="k">\begin</span><span class="nb">{</span>document<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\pagestyle</span><span class="nb">{</span>fancy<span class="nb">}</span>
 </span></span><span class="line"><span class="cl"><span class="k">\fancyhead</span><span class="nb">{}</span><span class="k">\fancyfoot</span><span class="nb">{}</span>
@@ -63,7 +78,7 @@
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="c">%%%%%%%%%%%%%%%%%% content written below
-</span></span></span><span class="line"><span class="cl"><span class="c"></span>
+</span></span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl"><span class="k">\section*</span><span class="nb">{</span>Problem 1<span class="nb">}</span>
 </span></span><span class="line"><span class="cl">
 </span></span><span class="line"><span class="cl">Some Solution
