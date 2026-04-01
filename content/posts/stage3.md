@@ -12,5 +12,5 @@ categories = ["study","tools"]
 2. 我的手機密碼是cdefgh
 3. 我們大吵是在i月jk日
 5. 在冷靜期，我總共寫了l張卡片，但最後只有給你m張
-
-hackmd.io/@pqweraddy/abcdefghijklm
+6. 我們兩個共講了「我愛你」nop次
+hackmd.io/@pqweraddy/abcdefghijklmnop
