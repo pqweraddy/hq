@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talk on Paddy HQ</title>
-    <link>http://example.org/categories/talk/</link>
+    <link>http://localhost:1313/categories/talk/</link>
     <description>Recent content in Talk on Paddy HQ</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>paddyl.hq@gmail.com (Paddy Lee)</managingEditor>
     <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster>
     <lastBuildDate>Fri, 28 Feb 2025 17:08:35 +0800</lastBuildDate>
-    <atom:link href="http://example.org/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://example.org/first_post/</link>
+      <link>http://localhost:1313/first_post/</link>
       <pubDate>Fri, 28 Feb 2025 17:08:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
-      <guid>http://example.org/first_post/</guid>
+      <guid>http://localhost:1313/first_post/</guid>
       <description>&lt;p&gt;好欸， &lt;strong&gt;Paddy HQ&lt;/strong&gt; 正式上線啦 &amp;#x1f973;&amp;#x1f973;&lt;/p&gt;&#xA;&lt;p&gt;這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～&lt;/p&gt;</description>
     </item>
   </channel>

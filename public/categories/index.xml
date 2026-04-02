@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Paddy HQ</title>
-    <link>http://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Paddy HQ</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>paddyl.hq@gmail.com (Paddy Lee)</managingEditor>
     <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster>
     <lastBuildDate>Tue, 01 Apr 2025 16:43:35 +0800</lastBuildDate>
-    <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Study</title>
-      <link>http://example.org/categories/study/</link>
+      <link>http://localhost:1313/categories/study/</link>
       <pubDate>Tue, 01 Apr 2025 16:43:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
-      <guid>http://example.org/categories/study/</guid>
+      <guid>http://localhost:1313/categories/study/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>http://example.org/categories/tools/</link>
+      <link>http://localhost:1313/categories/tools/</link>
       <pubDate>Tue, 01 Apr 2025 16:43:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
-      <guid>http://example.org/categories/tools/</guid>
+      <guid>http://localhost:1313/categories/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Talk</title>
-      <link>http://example.org/categories/talk/</link>
+      <link>http://localhost:1313/categories/talk/</link>
       <pubDate>Fri, 28 Feb 2025 17:08:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
-      <guid>http://example.org/categories/talk/</guid>
+      <guid>http://localhost:1313/categories/talk/</guid>
       <description></description>
     </item>
   </channel>
