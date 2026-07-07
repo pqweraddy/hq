@@ -2,19 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talk on Paddy HQ</title>
-    <link>http://localhost:1313/categories/talk/</link>
+    <link>http://example.org/categories/talk/</link>
     <description>Recent content in Talk on Paddy HQ</description>
     <generator>Hugo</generator>
     <language>en</language>
     <managingEditor>paddyl.hq@gmail.com (Paddy Lee)</managingEditor>
     <webMaster>paddyl.hq@gmail.com (Paddy Lee)</webMaster>
-    <lastBuildDate>Fri, 28 Feb 2025 17:08:35 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Mar 2025 17:08:35 +0800</lastBuildDate>
+    <atom:link href="http://example.org/categories/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小貝貝在哪呢</title>
+      <link>http://example.org/baba/</link>
+      <pubDate>Wed, 05 Mar 2025 17:08:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
+      <guid>http://example.org/baba/</guid>
+      <description>&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZwY64ynKApA?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;p&gt;提示：小貝寶需要看到小貝貝的影片&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/first_post/</link>
+      <link>http://example.org/first_post/</link>
       <pubDate>Fri, 28 Feb 2025 17:08:35 +0800</pubDate><author>paddyl.hq@gmail.com (Paddy Lee)</author>
-      <guid>http://localhost:1313/first_post/</guid>
+      <guid>http://example.org/first_post/</guid>
       <description>&lt;p&gt;好欸， &lt;strong&gt;Paddy HQ&lt;/strong&gt; 正式上線啦 &amp;#x1f973;&amp;#x1f973;&lt;/p&gt;&#xA;&lt;p&gt;這裡之後會放我的日常，比如修課紀錄以及一些活動的心得等等，敬請期待～&lt;/p&gt;</description>
     </item>
   </channel>
